@@ -5,3 +5,4 @@
 
 ### require
 [Vim-plug](https://github.com/junegunn/vim-plug)
+[Neovim](https://github.com/neovim/neovim/)
